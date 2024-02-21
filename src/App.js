@@ -15,6 +15,7 @@ import NotFound from "./pages/NotFound";
 import ApartmentNew from "./pages/ApartmentNew";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Contact from "./pages/Contact"
 
 
 const App = () => {
@@ -49,6 +50,7 @@ const App = () => {
           }
         />
         <Route path="*" element={<NotFound />} />
+        <Route path="/contact" element={<Contact/>}/>
       </Routes>
       <Footer />
     </>
