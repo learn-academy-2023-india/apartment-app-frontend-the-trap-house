@@ -7,7 +7,7 @@ const NotFound = () => {
   return (
     <>
      <div className="NF">
-      <img src={RedBlue.gif} alt="five-Ohhh" className="NotFound-gif" />
+      <img src={RedBlue} alt="five-Ohhh" className="NotFound-gif" />
     </div>
     <div className="not-found-container">
       <h1>404</h1>
