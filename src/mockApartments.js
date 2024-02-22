@@ -1,47 +1,47 @@
 let mockApartments = [
     {
       id: 1,
-      street: "101 Rimrock",
-      unit: "9A",
-      city: "San Diego",
-      state: "CA",
-      square_footage: 500,
-      price: "1800",
-      bedrooms: 2,
-      bathrooms: 2.0,
-      pets: "yes!",
-      image:
-        "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
-      user_id: 1
-    },
-    {
-      id: 2,
-      street: "720 Second Avenue",
-      unit: "508",
-      city: "San Diego",
-      state: "CA",
-      square_footage: 700,
-      price: "2500",
-      bedrooms: 2,
-      bathrooms: 2.0,
-      pets: "yes!",
-      image:
-        "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
-      user_id: 1
-    },
-    {
-      id: 2,
-      street: "415 Rainbow Street",
-      unit: "3B",
-      city: "San Diego",
-      state: "CA",
-      square_footage: 400,
-      price: "2000",
+      street: "404 Fetty Way",
+      unit: "200",
+      city: "Paterson",
+      state: "NJ",
+      square_footage: 300,
+      price: "400",
       bedrooms: 1,
-      bathrooms: 2.0,
-      pets: "small pets okay",
+      bathrooms: .5,
+      pets: "No room for pets!",
       image:
-        "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+        "https://wsvn.com/wp-content/uploads/sites/2/2021/01/lil-trap-house.png",
+      user_id: 1
+    },
+    {
+      id: 2,
+      street: "1404 ",
+      unit: "50",
+      city: "San Andreas",
+      state: "CA",
+      square_footage: 250,
+      price: "280",
+      bedrooms: .5,
+      bathrooms: 1.0,
+      pets: "If they can fit!",
+      image:
+        "https://cdna.artstation.com/p/assets/images/images/007/095/960/large/felix-jorge-exterior-c.jpg?1503642952",
+      user_id: 1
+    },
+    {
+      id: 2,
+      street: "2022 Astros Street",
+      unit: "9c",
+      city: "Houston",
+      state: "TX",
+      square_footage: 1900,
+      price: "1200",
+      bedrooms: 4,
+      bathrooms: 3.0,
+      pets: "All pets welcome",
+      image:
+        "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/greenville-church-painted-pink-jpg-1658513942.jpg?resize=660:*",
       user_id: 2
     }
   ]
